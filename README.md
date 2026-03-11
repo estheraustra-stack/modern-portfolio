@@ -1,36 +1,51 @@
-# Modern Portfolio – Esther Austra
+# Esther Austra | Front-End Developer
 
-**Author:** Esther Austra  
-**Project Type:** Front-End Developer Portfolio  
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+Professional front-end portfolio built from scratch using **HTML, CSS, and JavaScript**. Fully responsive with animations and hover effects.
 
-## 🌟 Project Overview
+---
 
-This is a **modern, professional portfolio website** showcasing my front-end development skills using **HTML, CSS, and JavaScript**.  
-It demonstrates responsive design, smooth animations, and a clean structure to highlight my capabilities to potential clients and employers.  
+## 📂 Project Structure
+modern-portfolio/ │ ├── index.html       ← Main webpage ├── style.css        ← CSS styling ├── script.js        ← JS for animations ├── README.md        ← Project description ├── assets/ │   ├── images/      ← Profile & project images │   └── icons/       ← Social icons └── projects/        ← Future projects
+---
 
+## 🚀 Features
 
-## 📁 Project Structure
-modern-portfolio/ │ ├─ index.html         # Main HTML file ├─ style.css          # CSS styles for layout, animations, and responsiveness ├─ script.js          # JavaScript for interactive elements ├─ README.md          # Project documentation ├─ assets/            # Folder containing images and icons │    ├─ images/ │    │    ├─ photo1.jpg │    │    ├─ photo2.jpg │    │    └─ ... │    └─ icons/
+- Fully responsive (mobile, tablet, desktop)  
+- Fade-in section animations on scroll  
+- Hover effects on project cards and icons  
+- Gradient buttons with hover scaling  
+- Subtle moving background for premium look  
+- Professional README with badges
 
+---
 
-## 🎨 Features
+## 🎨 Technologies Used
 
-- Fully **responsive design** for desktop, tablet, and mobile  
-- **Smooth animations** and transitions for modern UI  
-- Interactive **JavaScript elements** (buttons, menu, portfolio filters)  
-- Organized **folder structure** for scalability  
-- Ready to **impress clients** and showcase skills professionally  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Font Awesome for icons
 
-## 🚀 Live Demo
+---
 
-View the website live here:  
-[https://estheraustra-stack.github.io/modern-portfolio/](https://estheraustra-stack.github.io/modern-portfolio/)  
+## 📧 Contact Me
 
+- GitHub: [estheraustra-stack](https://github.com/estheraustra-stack)  
+- LinkedIn: [austraesther](https://linkedin.com/in/austraesther)  
+- Email: estheraustra@gmail.com  
 
-## 💻 How to Run Locally
+---
 
-1. Clone the repository:
+## 🌐 Live Demo
 
-```bash
-git clone https://github.com/estheraustra-stack/modern-portfolio.git
+[View Live Portfolio](https://estheraustra-stack.github.io/modern-portfolio/)
+
+---
+
+**Thank you for visiting!**  
+Esther Austra | Front-End Developer
+
